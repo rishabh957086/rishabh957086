@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rishabh</h1>
 <h3 align="center">A curious gamer and full stack developer student</h3>
 
-<!-- Trophy section with dark theme -->
+<!-- Trophy section with black theme -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishabh957086&theme=dark" alt="rishabh957086" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rishabh957086&theme=darkhub" alt="rishabh957086" />
   </a>
 </p>
 
